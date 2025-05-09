@@ -1,4 +1,3 @@
-// src/api.js
 import axios from "axios";
 
 const BASE_URL = "http://20.244.56.144/evaluation-service";
